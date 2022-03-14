@@ -14,11 +14,12 @@ trial.py - An test script that can be safely ignored.
 
 Example Images (compressed):
 <br>
-
+One Letter Per Pixel: <br>
 ![One Per Pixel Compressed](https://github.com/BryceStansfield/Letter-Subpixel-Display/blob/main/ExampleImages/One_Per_Pixel_Compressed.jpg?raw=true)
 <br>
 ![One Per Pixel Up Close](https://github.com/BryceStansfield/Letter-Subpixel-Display/blob/main/ExampleImages/OnePerPixelUpClose.PNG?raw=true)
 <br>
+Subpixel Letters: <br>
 ![Nine Per Pixel Compressed](https://github.com/BryceStansfield/Letter-Subpixel-Display/blob/main/ExampleImages/Nine_Per_Pixel_Compressed.jpg?raw=true)
 <br>
 ![Nine Per Pixel Up Close](https://github.com/BryceStansfield/Letter-Subpixel-Display/blob/main/ExampleImages/Nine_Per_Pixel_Up_Close.PNG)
